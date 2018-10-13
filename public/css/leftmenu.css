@@ -1,0 +1,12 @@
+.leftmenu
+{
+    height: 800px;
+    background-color: #edf0f7;
+}
+.leftmenu a
+{
+    text-decoration: none;
+    color: #000;
+    margin-left: 22%;
+    margin-top: 10px;
+}
